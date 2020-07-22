@@ -1,8 +1,6 @@
-### Wow, you found a Doge lover's playground! 👋
+### ![](https://i.imgur.com/GGIpA8z.png) Wow, you found a Doge lover's playground! 👋
 
-![](https://i.imgur.com/GGIpA8z.png)
-
-### I’m currently studying 📜
+#### I’m currently studying 📜
 
 - Python ASGI Server
 - Message Queue
