@@ -1,8 +1,6 @@
-### Hi there 👋
+![](https://i.imgur.com/GGIpA8z.png)
 
-![](https://i.imgur.com/8PAdcV9.png)
-
-Wow, you found a Doge lover's playground!
+Wow, you found a Doge lover's playground! 👋
 
 ### I’m currently studying 📜
 
