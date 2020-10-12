@@ -1,8 +1,6 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: [ master ]
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
@@ -16,28 +14,16 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-#           SHOW_PROFILE_VIEWS: False
-#           # Show the list of OS Worked on In dev metrics
+          SHOW_LINES_OF_CODE: True
+          SHOW_PROFILE_VIEWS: False
+          SHOW_PROJECTS: False
+          SHOW_SHORT_INFO: False
+          SHOW_LOC_CHART: False
+          SHOW_TIMEZONE: False
+          SHOW_LANGUAGE_PER_REPO: False
+          SHOW_DAYS_OF_WEEK: False
+          SHOW_COMMIT: False
 #           SHOW_OS: # optional, default is True
-#           # Show the list of projects worked on in dev metrics
-#           SHOW_PROJECTS: # optional, default is True
-#           # Show the Editors used in dev metrics
 #           SHOW_EDITORS: # optional, default is True
-#           # Show the time zone in the dev metrics
-#           SHOW_TIMEZONE: # optional, default is True
-#           # Shows the number of commit graph in the dev metrics
-#           SHOW_COMMIT: # optional, default is True
-#           # Show the Coding language used in dev metrics
 #           SHOW_LANGUAGE: # optional, default is True
-#           # Show the Total Lines of code written Badge till date
-#           SHOW_LINES_OF_CODE: # optional, default is False
-#           # Show language or framework used across different repository
-#           SHOW_LANGUAGE_PER_REPO: # optional, default is True
-#           # Set False to hide the Lines of code written in different quarters of different year
-#           SHOW_LOC_CHART: # optional, default is True
-#           # show day of week you are most productive
-#           SHOW_DAYS_OF_WEEK: # optional, default is True
-#           # Shows the short facts
-#           SHOW_SHORT_INFO: # optional, default is True
-#           # Show stats in your own language
 #           LOCALE: # optional, default is en
