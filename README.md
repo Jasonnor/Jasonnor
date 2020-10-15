@@ -32,6 +32,10 @@ Linux                    35 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+⌨️ **Recently used Languages**
+
+<figure><img src="https://wakatime.com/share/@Jasonnor/ba2ddbf9-443a-4002-bf8c-e4be2d88f28e.svg" width="600" /></figure>
+
 <!--
 **Jasonnor/Jasonnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
