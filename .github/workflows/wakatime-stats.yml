@@ -25,7 +25,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_COMMIT: False
-#           SHOW_OS: # optional, default is True
-#           SHOW_EDITORS: # optional, default is True
-#           SHOW_LANGUAGE: # optional, default is True
+          SHOW_OS: False
+          SHOW_EDITORS: False
+          SHOW_LANGUAGE: False
 #           LOCALE: # optional, default is en
