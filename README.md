@@ -4,7 +4,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
 [![Jasonnor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasonnor&custom_title=Jasonnor%27s%20GitHub%20Stats&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
