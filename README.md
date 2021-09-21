@@ -7,7 +7,7 @@
 [![GitHub Stats](https://github-readme-stats-bxfpzlwxq-jasonnor.vercel.app/api?username=Jasonnor&custom_title=Jasonnor%27s%20GitHub%20Stats&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-bxfpzlwxq-jasonnor.vercel.app/api/top-langs/?username=Jasonnor&count_private=true&hide=html,Stylus&exclude_repo=apollo,openbilibili,PConv-Keras-Food,vcms-frontend&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jasonnor&hide=Other,Bash&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jasonnor&custom_title=Recently%20Used%20Languages&hide=Other,Bash&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ⌨️ **Recently used Languages**
