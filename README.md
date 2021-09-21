@@ -8,7 +8,7 @@
 
 ⌨️ **Recently used Languages**
 
-<figure><img src="https://wakatime.com/share/@Jasonnor/80cd3d9c-594e-44d1-9e02-0a9a7d475c11.png" width="500" /></figure>
+<figure><img src="https://wakatime.com/share/@Jasonnor/80cd3d9c-594e-44d1-9e02-0a9a7d475c11.png" width="600" /></figure>
 
 <!--
 **Jasonnor/Jasonnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
