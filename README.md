@@ -3,6 +3,7 @@
 <!--START_SECTION:waka-->
 [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)](https://github.com/Jasonnor)
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/93304a80-1701-43cc-8d7e-2edf43f97216.svg)](https://wakatime.com/@93304a80-1701-43cc-8d7e-2edf43f97216)
 
 [![GitHub Stats](https://github-readme-stats-xwgjbhl3c-jasonnor.vercel.app/api?username=Jasonnor&custom_title=Jasonnor%27s%20GitHub%20Stats&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
