@@ -10,27 +10,12 @@
 [![Top Langs](https://github-readme-stats-xwgjbhl3c-jasonnor.vercel.app/api/top-langs/?username=Jasonnor&count_private=true&hide=html,Stylus&exclude_repo=apollo,openbilibili,PConv-Keras-Food,vcms-frontend&langs_count=10&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jasonnor&custom_title=Recently%20Used%20Languages&hide=Other,Bash,Text,Ansible,JSON,YAML,Git,SSH%20Config&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 <!--
 ⌨️ **Recently used Languages**
 
 <figure><img src="https://wakatime.com/share/@Jasonnor/80cd3d9c-594e-44d1-9e02-0a9a7d475c11.png" width="600" /></figure>
 
-**Jasonnor/Jasonnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-#### I’m currently studying 📜
-
-- Python ASGI Server
-- Message Queue
-- Self-supervised learning
 -->
