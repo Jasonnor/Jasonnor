@@ -1,0 +1,198 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader/commit/ad3dc00171a8a748c625ad3462adde0f354ef59b\"><strong>a</strong>d3dc00171a8a748c625ad3462adde0f354ef59b</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader/commit/ab64b0b97ed1fab8ffd9d387a8196ce7d06b2bad\"><strong>ab</strong>64b0b97ed1fab8ffd9d387a8196ce7d06b2bad</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/abc2e7830139af881d87bce11fa37f6a2fc13ff4\"><strong>abc</strong>2e7830139af881d87bce11fa37f6a2fc13ff4</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/e450e553cafe5c62f500ac5d4709e2c6a797c71b\">e450e553<strong>cafe</strong>5c62f500ac5d4709e2c6a797c71b</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/OpenComic/commit/97d471ea73a833d1bec57aa9d582c34d0e33a19b\">97d471e</a>: chore: bump version to 0.2.2",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/annoying-doge-bot/commit/eaae462b9a7d5f95b32eefa0702f1927fcc66a60\">eaae462</a>\n- <a href=\"https://github.com/Jasonnor/deepface/commit/84370985aec050b5789a59bfa16cfab84db3f610\">8437098</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/deada887384219ade050f7e6689f86769cda3d50\"><strong>dead</strong>a887384219ade050f7e6689f86769cda3d50</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Perceptron/commit/ce09972cc6e7ff541a9134c70e312aac384e88a1\">ce09972</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 456 times)\n2. update (used 301 times)\n3. fix (used 282 times)\n4. & (used 140 times)\n5. feature: (used 126 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/74ad3b4ce5a9c4ddaa585be0e0072306050a33da\">74ad3b4</a>: fix: skip hiding ScreenHunter7Pro\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/bca7ae3539cb5f3e7405b6e4ea5fb8af447b7914\">bca7ae3</a>: fix: click on the absolute coordinates to start the game",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/7cdf05ca2945e4d07da7d66551be2cf7d3150aa6\">7cdf05c</a>: Fix Android icon\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/c6a83d44929441d0d785f23ff0ebd398617dd9a4\">c6a83d4</a>: Fix icon url & README\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/592a2db14b103a3e5e29957be9b18f834bc383fa\">592a2db</a>: Fix for SEO",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/20c0ad71b1873d2b33b72041f59a14d42cad7ae6\">20c0ad7</a>: Fix some bugs\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/e6c169a60d332c1c27e49fa9f5cec752a9a52b6e\">e6c169a</a>: Fix attack\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/f1c7fabbafe3f115f0d949bdb32fde3daff2640e\">f1c7fab</a>: Fix helper\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/7166c8088ffe95e6cb17b1434ba87dbdba991e78\">7166c80</a>: Fix UI helper",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/7004e3766621e492adf8b0e97e73bf6d93fe3444\">7004e37</a>: Fix loop bug\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/d260cfde06d370052c2cd5bfcdf01cee10f21716\">d260cfd</a>: Fix team bug\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/b9a766f2298caefa6bbf482e1c64076c4224eff7\">b9a766f</a>: Fix select team bug\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/d25cc1d5d0f4aeb9bdc347041897b8af482a15b7\">d25cc1d</a>: Fix stamp bug & select team delay\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/90c7fc329d8308d2f80afb1137774ce1a2e80671\">90c7fc3</a>: Fix stamp bug",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/4e4a4df6120d6dd76f1171a095ab78a79e0d2dfe\">4e4a4df</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/4e4a4df6120d6dd76f1171a095ab78a79e0d2dfe\">4e4a4df</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/issues/16\">#16</a>: Long-term: Chorus time for every song\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/issues/24\">#24</a>: Broken Video List\n- <a href=\"https://github.com/onfido/faiss_prebuilt/issues/8\">#8</a>: Support Faiss version 1.6.0 ~ 1.6.3 and others\n- <a href=\"https://github.com/bugthesystem/FireSharp/issues/161\">#161</a>: Configure FireSharp without using Firebase Admin SDK\n- <a href=\"https://github.com/conventional-changelog/standard-version/issues/782\">#782</a>: How to customize some changelog format (date, description and order of section)\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/aws/amazon-cloudwatch-agent/issues/1170\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/team-mermer/what-do-u-meme/commit/a14d283c7a8eeeae5eb39c314d08b984e6801ec5\">a14d283</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader\">Jasonnor/Professional-Codes-Reader: ★67</a>\n* <a href=\"https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader\">Jasonnor/Yu-Gi-Oh-Deck-Downloader: ★61</a>\n* <a href=\"https://github.com/Jasonnor/Granblue-Autotasy\">Jasonnor/Granblue-Autotasy: ★7</a>\n* <a href=\"https://github.com/Jasonnor/annoying-doge-bot\">Jasonnor/annoying-doge-bot: ★7</a>\n* <a href=\"https://github.com/Jasonnor/blog\">Jasonnor/blog: ★4</a>\n* <a href=\"https://github.com/Jasonnor/automation-scripts-collection\">Jasonnor/automation-scripts-collection: ★4</a>\n* <a href=\"https://github.com/Jasonnor/Hopfiled\">Jasonnor/Hopfiled: ★2</a>\n* <a href=\"https://github.com/kvzhao/metric-learning-evaluator\">kvzhao/metric-learning-evaluator: ★2</a>\n* <a href=\"https://github.com/Jasonnor/jasonnor.github.io\">Jasonnor/jasonnor.github.io: ★1</a>\n* <a href=\"https://github.com/Jasonnor/UDP_Module\">Jasonnor/UDP_Module: ★1</a>\n* <a href=\"https://github.com/Jasonnor/Project-Ikazuchi\">Jasonnor/Project-Ikazuchi: ★1</a>\n* <a href=\"https://github.com/Jasonnor/awesome-machine-learning\">Jasonnor/awesome-machine-learning: ★1</a>\n* <a href=\"https://github.com/Jasonnor/PConv-Keras-Food\">Jasonnor/PConv-Keras-Food: ★1</a>\n* <a href=\"https://github.com/Jasonnor/Messer\">Jasonnor/Messer: ★1</a>\n* <a href=\"https://github.com/Jasonnor/PI-REC\">Jasonnor/PI-REC: ★1</a>\n* <a href=\"https://github.com/Jasonnor/WebGL-Fluid-Simulation\">Jasonnor/WebGL-Fluid-Simulation: ★1</a>\n* <a href=\"https://github.com/Jasonnor/deepface\">Jasonnor/deepface: ★1</a>\n* <a href=\"https://github.com/Jasonnor/mykirito-helper\">Jasonnor/mykirito-helper: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "stars-500",
+    "tier": 2,
+    "desc": "I collected 500 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/Jasonnor/tf-idf-python\">Jasonnor/tf-idf-python: ★102</a>\n* <a href=\"https://github.com/Jasonnor/README.md\">Jasonnor/README.md: ★90</a>\n* <a href=\"https://github.com/Jasonnor/Perceptron\">Jasonnor/Perceptron: ★81</a>\n* <a href=\"https://github.com/Jasonnor/tensorboard-empty-scalar-hider\">Jasonnor/tensorboard-empty-scalar-hider: ★81</a>\n* <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader\">Jasonnor/Professional-Codes-Reader: ★67</a>\n* <a href=\"https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader\">Jasonnor/Yu-Gi-Oh-Deck-Downloader: ★61</a>\n* <a href=\"https://github.com/Jasonnor/Granblue-Autotasy\">Jasonnor/Granblue-Autotasy: ★7</a>\n* <a href=\"https://github.com/Jasonnor/annoying-doge-bot\">Jasonnor/annoying-doge-bot: ★7</a>\n* <a href=\"https://github.com/Jasonnor/blog\">Jasonnor/blog: ★4</a>\n* <a href=\"https://github.com/Jasonnor/automation-scripts-collection\">Jasonnor/automation-scripts-collection: ★4</a>\n* <a href=\"https://github.com/Jasonnor/Hopfiled\">Jasonnor/Hopfiled: ★2</a>\n* <a href=\"https://github.com/kvzhao/metric-learning-evaluator\">kvzhao/metric-learning-evaluator: ★2</a>\n* <a href=\"https://github.com/Jasonnor/jasonnor.github.io\">Jasonnor/jasonnor.github.io: ★1</a>\n* <a href=\"https://github.com/Jasonnor/UDP_Module\">Jasonnor/UDP_Module: ★1</a>\n* <a href=\"https://github.com/Jasonnor/Project-Ikazuchi\">Jasonnor/Project-Ikazuchi: ★1</a>\n* <a href=\"https://github.com/Jasonnor/awesome-machine-learning\">Jasonnor/awesome-machine-learning: ★1</a>\n* <a href=\"https://github.com/Jasonnor/PConv-Keras-Food\">Jasonnor/PConv-Keras-Food: ★1</a>\n* <a href=\"https://github.com/Jasonnor/Messer\">Jasonnor/Messer: ★1</a>\n* <a href=\"https://github.com/Jasonnor/PI-REC\">Jasonnor/PI-REC: ★1</a>\n* <a href=\"https://github.com/Jasonnor/WebGL-Fluid-Simulation\">Jasonnor/WebGL-Fluid-Simulation: ★1</a>\n* <a href=\"https://github.com/Jasonnor/deepface\">Jasonnor/deepface: ★1</a>\n* <a href=\"https://github.com/Jasonnor/mykirito-helper\">Jasonnor/mykirito-helper: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
+  },
+  {
+    "id": "stars-1000",
+    "tier": 3,
+    "desc": "I collected 1000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/Jasonnor/th-music-video-generator\">Jasonnor/th-music-video-generator: ★269</a>\n* <a href=\"https://github.com/Jasonnor/Backpropagation\">Jasonnor/Backpropagation: ★246</a>\n* <a href=\"https://github.com/Jasonnor/tf-idf-python\">Jasonnor/tf-idf-python: ★102</a>\n* <a href=\"https://github.com/Jasonnor/README.md\">Jasonnor/README.md: ★90</a>\n* <a href=\"https://github.com/Jasonnor/Perceptron\">Jasonnor/Perceptron: ★81</a>\n* <a href=\"https://github.com/Jasonnor/tensorboard-empty-scalar-hider\">Jasonnor/tensorboard-empty-scalar-hider: ★81</a>\n* <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader\">Jasonnor/Professional-Codes-Reader: ★67</a>\n* <a href=\"https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader\">Jasonnor/Yu-Gi-Oh-Deck-Downloader: ★61</a>\n* <a href=\"https://github.com/Jasonnor/Granblue-Autotasy\">Jasonnor/Granblue-Autotasy: ★7</a>\n* <a href=\"https://github.com/Jasonnor/annoying-doge-bot\">Jasonnor/annoying-doge-bot: ★7</a>\n* <a href=\"https://github.com/Jasonnor/blog\">Jasonnor/blog: ★4</a>\n* <a href=\"https://github.com/Jasonnor/automation-scripts-collection\">Jasonnor/automation-scripts-collection: ★4</a>\n* <a href=\"https://github.com/Jasonnor/Hopfiled\">Jasonnor/Hopfiled: ★2</a>\n* <a href=\"https://github.com/kvzhao/metric-learning-evaluator\">kvzhao/metric-learning-evaluator: ★2</a>\n* <a href=\"https://github.com/Jasonnor/jasonnor.github.io\">Jasonnor/jasonnor.github.io: ★1</a>\n* <a href=\"https://github.com/Jasonnor/UDP_Module\">Jasonnor/UDP_Module: ★1</a>\n* <a href=\"https://github.com/Jasonnor/Project-Ikazuchi\">Jasonnor/Project-Ikazuchi: ★1</a>\n* <a href=\"https://github.com/Jasonnor/awesome-machine-learning\">Jasonnor/awesome-machine-learning: ★1</a>\n* <a href=\"https://github.com/Jasonnor/PConv-Keras-Food\">Jasonnor/PConv-Keras-Food: ★1</a>\n* <a href=\"https://github.com/Jasonnor/Messer\">Jasonnor/Messer: ★1</a>\n* <a href=\"https://github.com/Jasonnor/PI-REC\">Jasonnor/PI-REC: ★1</a>\n* <a href=\"https://github.com/Jasonnor/WebGL-Fluid-Simulation\">Jasonnor/WebGL-Fluid-Simulation: ★1</a>\n* <a href=\"https://github.com/Jasonnor/deepface\">Jasonnor/deepface: ★1</a>\n* <a href=\"https://github.com/Jasonnor/mykirito-helper\">Jasonnor/mykirito-helper: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/07f43e13d872304acdbd31c8d5b3da1f2582b386\">07f43e1</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/c0909ec63117da412d77c512ae84976d7a8c398d\">c0909ec</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/54af269be6aa64901aa91bd97ffbb6980095a6e8\">54af269</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/a4cc4d548b4c90e1d7a6bc1da25172e222fd5bc1\">a4cc4d5</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/fe5968dd58f6e92f94c285eca5b030f292963709\">fe5968d</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/27ea820c3756bf71f6a7db4b5ffaab808664a951\">27ea820</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/22d8ec86b4a19f5721f5690e995d1b8d0fcfa187\">22d8ec8</a>\n- <a href=\"https://github.com/Jasonnor/airflow/commit/2bcd674a48a3decf8835d761c7bfd407f74a4f11\">2bcd674</a>\n- <a href=\"https://github.com/Jasonnor/Jasonnor/commit/d936b984c11ad4857ad65a406e6c339992c94d66\">d936b98</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/ce3aa42ac177af9f419d214bde70deac41307887\">ce3aa42</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/d9bbc3b15214dae302c8342dc8344cc34a6b2ed7\">d9bbc3b</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/7ef0ea219330d4a08aefdcf19f9655421af36c38\">7ef0ea2</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/8a915cc8f82fe6fc13bc1163fa5de885a9d06901\">8a915cc</a>\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/45d1521859e889f556d0d04d86dd20a19c4339d9\">45d1521</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
