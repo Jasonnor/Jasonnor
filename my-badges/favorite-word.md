@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. update (used 301 times)
 3. fix (used 282 times)
 4. & (used 140 times)
-5. feature: (used 126 times)
+5. feature: (used 127 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 456 times)\n2. update (used 301 times)\n3. fix (used 282 times)\n4. & (used 140 times)\n5. feature: (used 126 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 456 times)\n2. update (used 301 times)\n3. fix (used 282 times)\n4. & (used 140 times)\n5. feature: (used 127 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -194,5 +194,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/8a915cc8f82fe6fc13bc1163fa5de885a9d06901\">8a915cc</a>\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/45d1521859e889f556d0d04d86dd20a19c4339d9\">45d1521</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 13 my own repositories.",
+    "body": "- <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader\">Jasonnor/Professional-Codes-Reader</a>\n- <a href=\"https://github.com/Jasonnor/Perceptron\">Jasonnor/Perceptron</a>\n- <a href=\"https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader\">Jasonnor/Yu-Gi-Oh-Deck-Downloader</a>\n- <a href=\"https://github.com/Jasonnor/Backpropagation\">Jasonnor/Backpropagation</a>\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy\">Jasonnor/Granblue-Autotasy</a>\n- <a href=\"https://github.com/Jasonnor/Car-Simulator\">Jasonnor/Car-Simulator</a>\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator\">Jasonnor/th-music-video-generator</a>\n- <a href=\"https://github.com/Jasonnor/tf-idf-python\">Jasonnor/tf-idf-python</a>\n- <a href=\"https://github.com/Jasonnor/tensorboard-empty-scalar-hider\">Jasonnor/tensorboard-empty-scalar-hider</a>\n- <a href=\"https://github.com/Jasonnor/annoying-doge-bot\">Jasonnor/annoying-doge-bot</a>\n- <a href=\"https://github.com/Jasonnor/blog\">Jasonnor/blog</a>\n- <a href=\"https://github.com/Jasonnor/README.md\">Jasonnor/README.md</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection\">Jasonnor/automation-scripts-collection</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
