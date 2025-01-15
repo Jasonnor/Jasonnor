@@ -17,10 +17,10 @@ Repos:
 * <a href="https://github.com/Jasonnor/blog">Jasonnor/blog: ★4</a>
 * <a href="https://github.com/Jasonnor/automation-scripts-collection">Jasonnor/automation-scripts-collection: ★4</a>
 * <a href="https://github.com/Jasonnor/Hopfiled">Jasonnor/Hopfiled: ★2</a>
+* <a href="https://github.com/Jasonnor/Project-Ikazuchi">Jasonnor/Project-Ikazuchi: ★2</a>
 * <a href="https://github.com/kvzhao/metric-learning-evaluator">kvzhao/metric-learning-evaluator: ★2</a>
 * <a href="https://github.com/Jasonnor/jasonnor.github.io">Jasonnor/jasonnor.github.io: ★1</a>
 * <a href="https://github.com/Jasonnor/UDP_Module">Jasonnor/UDP_Module: ★1</a>
-* <a href="https://github.com/Jasonnor/Project-Ikazuchi">Jasonnor/Project-Ikazuchi: ★1</a>
 * <a href="https://github.com/Jasonnor/awesome-machine-learning">Jasonnor/awesome-machine-learning: ★1</a>
 * <a href="https://github.com/Jasonnor/PConv-Keras-Food">Jasonnor/PConv-Keras-Food: ★1</a>
 * <a href="https://github.com/Jasonnor/Messer">Jasonnor/Messer: ★1</a>
