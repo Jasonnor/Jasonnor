@@ -194,5 +194,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/8a915cc8f82fe6fc13bc1163fa5de885a9d06901\">8a915cc</a>\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/45d1521859e889f556d0d04d86dd20a19c4339d9\">45d1521</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/ab54c97aa5f3693808135a09349cfdf1e5a4c30f\">ab54c97</a>\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/89fc2b8b09ea01ba2c23920ce3b04225e3e50a06\">89fc2b8</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
