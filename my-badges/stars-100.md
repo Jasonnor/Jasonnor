@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/Jasonnor/Professional-Codes-Reader">Jasonnor/Professional-Codes-Reader: ★67</a>
+* <a href="https://github.com/Jasonnor/Professional-Codes-Reader">Jasonnor/Professional-Codes-Reader: ★66</a>
 * <a href="https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader">Jasonnor/Yu-Gi-Oh-Deck-Downloader: ★61</a>
 * <a href="https://github.com/Jasonnor/Granblue-Autotasy">Jasonnor/Granblue-Autotasy: ★7</a>
 * <a href="https://github.com/Jasonnor/annoying-doge-bot">Jasonnor/annoying-doge-bot: ★7</a>
