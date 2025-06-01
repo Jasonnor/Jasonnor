@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/Jasonnor/tensorboard-empty-scalar-hider">Jasonnor/tensorboard-empty-scalar-hider: ★81</a>
 * <a href="https://github.com/Jasonnor/Professional-Codes-Reader">Jasonnor/Professional-Codes-Reader: ★66</a>
 * <a href="https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader">Jasonnor/Yu-Gi-Oh-Deck-Downloader: ★61</a>
-* <a href="https://github.com/Jasonnor/Granblue-Autotasy">Jasonnor/Granblue-Autotasy: ★7</a>
+* <a href="https://github.com/Jasonnor/Granblue-Autotasy">Jasonnor/Granblue-Autotasy: ★8</a>
 * <a href="https://github.com/Jasonnor/annoying-doge-bot">Jasonnor/annoying-doge-bot: ★7</a>
 * <a href="https://github.com/Jasonnor/blog">Jasonnor/blog: ★4</a>
 * <a href="https://github.com/Jasonnor/automation-scripts-collection">Jasonnor/automation-scripts-collection: ★4</a>
