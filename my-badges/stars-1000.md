@@ -14,8 +14,8 @@ Repos:
 * <a href="https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader">Jasonnor/Yu-Gi-Oh-Deck-Downloader: ★61</a>
 * <a href="https://github.com/Jasonnor/Granblue-Autotasy">Jasonnor/Granblue-Autotasy: ★8</a>
 * <a href="https://github.com/Jasonnor/annoying-doge-bot">Jasonnor/annoying-doge-bot: ★7</a>
+* <a href="https://github.com/Jasonnor/automation-scripts-collection">Jasonnor/automation-scripts-collection: ★6</a>
 * <a href="https://github.com/Jasonnor/blog">Jasonnor/blog: ★4</a>
-* <a href="https://github.com/Jasonnor/automation-scripts-collection">Jasonnor/automation-scripts-collection: ★4</a>
 * <a href="https://github.com/Jasonnor/Hopfiled">Jasonnor/Hopfiled: ★2</a>
 * <a href="https://github.com/Jasonnor/Project-Ikazuchi">Jasonnor/Project-Ikazuchi: ★2</a>
 * <a href="https://github.com/kvzhao/metric-learning-evaluator">kvzhao/metric-learning-evaluator: ★2</a>
