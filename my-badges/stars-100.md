@@ -21,6 +21,7 @@ Repos:
 * <a href="https://github.com/Jasonnor/WebGL-Fluid-Simulation">Jasonnor/WebGL-Fluid-Simulation: ★1</a>
 * <a href="https://github.com/Jasonnor/deepface">Jasonnor/deepface: ★1</a>
 * <a href="https://github.com/Jasonnor/mykirito-helper">Jasonnor/mykirito-helper: ★1</a>
+* <a href="https://github.com/Jasonnor/SillyTavern-Magic-Translation">Jasonnor/SillyTavern-Magic-Translation: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
