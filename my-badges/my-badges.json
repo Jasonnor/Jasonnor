@@ -31,14 +31,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/OpenComic/commit/97d471ea73a833d1bec57aa9d582c34d0e33a19b\">97d471e</a>: chore: bump version to 0.2.2",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/a9081ff307bd9d1665c04ab7903519908d13132d\">a9081ff</a>: chore: bump version to 1.3.1",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/SillyTavern-Magic-Translation/commit/69becdddee4050216a299df8b33f0427ccf2f5c2\">69becdd</a>\n- <a href=\"https://github.com/Jasonnor/annoying-doge-bot/commit/eaae462b9a7d5f95b32eefa0702f1927fcc66a60\">eaae462</a>\n- <a href=\"https://github.com/Jasonnor/deepface/commit/84370985aec050b5789a59bfa16cfab84db3f610\">8437098</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/a46329e5f3dd72000e5516c858ecc6edccbb4ecf\">a46329e</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/e3a383213ebe9bdb6a28d1ee536c8b1439572b13\">e3a3832</a>\n- <a href=\"https://github.com/Jasonnor/SillyTavern-Magic-Translation/commit/69becdddee4050216a299df8b33f0427ccf2f5c2\">69becdd</a>\n- <a href=\"https://github.com/Jasonnor/annoying-doge-bot/commit/eaae462b9a7d5f95b32eefa0702f1927fcc66a60\">eaae462</a>\n- <a href=\"https://github.com/Jasonnor/deepface/commit/84370985aec050b5789a59bfa16cfab84db3f610\">8437098</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 456 times)\n2. update (used 304 times)\n3. fix (used 282 times)\n4. feature: (used 133 times)\n5. function (used 75 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 464 times)\n2. update (used 311 times)\n3. fix (used 283 times)\n4. feature: (used 152 times)\n5. function (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/7004e3766621e492adf8b0e97e73bf6d93fe3444\">7004e37</a>: Fix loop bug\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/d260cfde06d370052c2cd5bfcdf01cee10f21716\">d260cfd</a>: Fix team bug\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/b9a766f2298caefa6bbf482e1c64076c4224eff7\">b9a766f</a>: Fix select team bug\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/d25cc1d5d0f4aeb9bdc347041897b8af482a15b7\">d25cc1d</a>: Fix stamp bug & select team delay\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/90c7fc329d8308d2f80afb1137774ce1a2e80671\">90c7fc3</a>: Fix stamp bug",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/da0722bc31f78c0a377cf0186621b6b4edbd27e1\">da0722b</a>: fix: title header may not appear, so use loading animation instead\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/674e665bd02cc061bff41f8f4ba3fdcf74c815f5\">674e665</a>: fix: update submit button selector\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/5999eee1a02c22c113d662eda7cde1049c231d4e\">5999eee</a>: fix: update button selector\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/63829018511f04a9b55c1172f6ea325027c53542\">6382901</a>: fix: update loading animation selector\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/e7e725c2e07743fa261ceaee6aa0adc56e76949d\">e7e725c</a>: fix: update paste text area id",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
@@ -178,14 +178,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/22b97df3cd96581925c3cad33c9f23324c2fab58\">22b97df</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/07f43e13d872304acdbd31c8d5b3da1f2582b386\">07f43e1</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/c0909ec63117da412d77c512ae84976d7a8c398d\">c0909ec</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/54af269be6aa64901aa91bd97ffbb6980095a6e8\">54af269</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/a4cc4d548b4c90e1d7a6bc1da25172e222fd5bc1\">a4cc4d5</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/fe5968dd58f6e92f94c285eca5b030f292963709\">fe5968d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/21620c0a1de9bf3ac8b24f2e74daea5d23766cdb\">21620c0</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/0b63afe5dfe5e5a512eecd6143ee22e5056fd376\">0b63afe</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/d5a9028dc3a0e9aa942a8a6f799b4126a99ba1fc\">d5a9028</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/f70b416e0dcff0eda6b72785b4675ee8c7b9fb31\">f70b416</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/22b97df3cd96581925c3cad33c9f23324c2fab58\">22b97df</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/07f43e13d872304acdbd31c8d5b3da1f2582b386\">07f43e1</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/22d8ec86b4a19f5721f5690e995d1b8d0fcfa187\">22d8ec8</a>\n- <a href=\"https://github.com/Jasonnor/airflow/commit/2bcd674a48a3decf8835d761c7bfd407f74a4f11\">2bcd674</a>\n- <a href=\"https://github.com/Jasonnor/Jasonnor/commit/d936b984c11ad4857ad65a406e6c339992c94d66\">d936b98</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/ce3aa42ac177af9f419d214bde70deac41307887\">ce3aa42</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/d9bbc3b15214dae302c8342dc8344cc34a6b2ed7\">d9bbc3b</a>\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/7ef0ea219330d4a08aefdcf19f9655421af36c38\">7ef0ea2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/a9081ff307bd9d1665c04ab7903519908d13132d\">a9081ff</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/53daca0aee8ca0fcef28c5d5d291dd33f9bada10\">53daca0</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/3483d230d0e933c7c7ea44bed0b7e5d39aea48f7\">3483d23</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/da0722bc31f78c0a377cf0186621b6b4edbd27e1\">da0722b</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/674e665bd02cc061bff41f8f4ba3fdcf74c815f5\">674e665</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/e7e725c2e07743fa261ceaee6aa0adc56e76949d\">e7e725c</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
