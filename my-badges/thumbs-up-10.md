@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/SigNoz/signoz/issues/6001">15 👍</a>
+* <a href="https://github.com/SigNoz/signoz/issues/6001">16 👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
