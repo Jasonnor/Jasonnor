@@ -208,5 +208,12 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/SigNoz/signoz/issues/6001\">16 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/issues/15\">#15</a>: Todo: Refrain/Chorus Mode",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   }
 ]

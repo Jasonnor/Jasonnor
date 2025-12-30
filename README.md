@@ -38,6 +38,7 @@
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
+<a href="my-badges/old-issue-3.md"><img src="https://my-badges.github.io/my-badges/old-issue-3.png" alt="I closed an issue that was open for 3 years" title="I closed an issue that was open for 3 years" width="64"></a>
 <!-- my-badges end -->
 
 <!--
