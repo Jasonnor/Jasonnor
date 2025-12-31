@@ -215,5 +215,19 @@
     "desc": "I closed an issue that was open for 3 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/issues/15\">#15</a>: Todo: Refrain/Chorus Mode",
     "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader/commit/840f4d0ee9cfef65abcb3999b815dc6f6dd0d3c7\">840f4d0</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kvzhao/metric-learning-evaluator/commit/a28a03fef886918b02a9875daf92204606069789\">a28a03f</a>\n- <a href=\"https://github.com/kvzhao/metric-learning-evaluator/commit/bcb87c380b3569d98237e8b8a77752a496dd4d3d\">bcb87c3</a>\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/a3380b01771e88fcdd0ba264b50f31e2452f0f3a\">a3380b0</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
