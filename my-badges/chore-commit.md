@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Jasonnor/web-tldr/commit/b2ace0732e5674442fff6f2444ac8fdc8ed3e664">b2ace07</a>: chore: bump version to 1.3.2
+- <a href="https://github.com/Jasonnor/web-tldr/commit/3f289cbd4c3b56358b268bc8284fadec82d9ffcb">3f289cb</a>: chore: bump version to 1.3.3
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
