@@ -219,7 +219,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Professional-Codes-Reader/commit/840f4d0ee9cfef65abcb3999b815dc6f6dd0d3c7\">840f4d0</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -236,5 +236,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Granblue-Autotasy/commit/910586a594ef81e9cf17bbb39b0fc3ca6a8c9fd3\">910586a</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/62265e6b440530f65e177644f83dbb6e95c6f17e\">62265e6</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/3f289cbd4c3b56358b268bc8284fadec82d9ffcb\">3f289cb</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/5aaf24a6afaa1b95484642c79d97117e87ca64e3\">5aaf24a</a>\n- <a href=\"https://github.com/Jasonnor/deep_learning_object_detection/commit/bb0a8453aab356ff389354351b8ffea6c2d7fbff\">bb0a845</a>\n- <a href=\"https://github.com/Jasonnor/deep_learning_object_detection/commit/e29cc99c407bd8810addedde8d28bdb4e353d834\">e29cc99</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
