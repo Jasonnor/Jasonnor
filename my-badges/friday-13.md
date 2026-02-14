@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/Jasonnor/web-tldr/commit/02e2da32990124ea2654b87478c1d73ff37ce981">02e2da3</a>
+- <a href="https://github.com/Jasonnor/web-tldr/commit/281c644e0e629a610211e29412754573f8b01859">281c644</a>
 - <a href="https://github.com/Jasonnor/Last-Auto-Period/commit/ab54c97aa5f3693808135a09349cfdf1e5a4c30f">ab54c97</a>
 - <a href="https://github.com/Jasonnor/Last-Auto-Period/commit/89fc2b8b09ea01ba2c23920ce3b04225e3e50a06">89fc2b8</a>
 
