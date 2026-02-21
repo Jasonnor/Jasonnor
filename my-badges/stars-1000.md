@@ -19,6 +19,7 @@ Repos:
 * <a href="https://github.com/Jasonnor/Hopfiled">Jasonnor/Hopfiled: ★2</a>
 * <a href="https://github.com/Jasonnor/Project-Ikazuchi">Jasonnor/Project-Ikazuchi: ★2</a>
 * <a href="https://github.com/kvzhao/metric-learning-evaluator">kvzhao/metric-learning-evaluator: ★2</a>
+* <a href="https://github.com/Jasonnor/web-tldr">Jasonnor/web-tldr: ★2</a>
 * <a href="https://github.com/Jasonnor/jasonnor.github.io">Jasonnor/jasonnor.github.io: ★1</a>
 * <a href="https://github.com/Jasonnor/UDP_Module">Jasonnor/UDP_Module: ★1</a>
 * <a href="https://github.com/Jasonnor/awesome-machine-learning">Jasonnor/awesome-machine-learning: ★1</a>
@@ -29,7 +30,6 @@ Repos:
 * <a href="https://github.com/Jasonnor/deepface">Jasonnor/deepface: ★1</a>
 * <a href="https://github.com/Jasonnor/mykirito-helper">Jasonnor/mykirito-helper: ★1</a>
 * <a href="https://github.com/Jasonnor/SillyTavern-Magic-Translation">Jasonnor/SillyTavern-Magic-Translation: ★1</a>
-* <a href="https://github.com/Jasonnor/web-tldr">Jasonnor/web-tldr: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
