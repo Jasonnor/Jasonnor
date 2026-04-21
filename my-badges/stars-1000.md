@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/Jasonnor/Backpropagation">Jasonnor/Backpropagation: ★251</a>
 * <a href="https://github.com/Jasonnor/tf-idf-python">Jasonnor/tf-idf-python: ★103</a>
 * <a href="https://github.com/Jasonnor/README.md">Jasonnor/README.md: ★90</a>
-* <a href="https://github.com/Jasonnor/Perceptron">Jasonnor/Perceptron: ★88</a>
+* <a href="https://github.com/Jasonnor/Perceptron">Jasonnor/Perceptron: ★89</a>
 * <a href="https://github.com/Jasonnor/tensorboard-empty-scalar-hider">Jasonnor/tensorboard-empty-scalar-hider: ★83</a>
 * <a href="https://github.com/Jasonnor/Professional-Codes-Reader">Jasonnor/Professional-Codes-Reader: ★66</a>
 * <a href="https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader">Jasonnor/Yu-Gi-Oh-Deck-Downloader: ★61</a>

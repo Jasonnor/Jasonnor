@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Jasonnor/automation-scripts-collection/commit/74ad3b4ce5a9c4ddaa585be0e0072306050a33da">74ad3b4</a>: fix: skip hiding ScreenHunter7Pro
-- <a href="https://github.com/Jasonnor/automation-scripts-collection/commit/bca7ae3539cb5f3e7405b6e4ea5fb8af447b7914">bca7ae3</a>: fix: click on the absolute coordinates to start the game
+- <a href="https://github.com/Jasonnor/automation-scripts-collection/commit/ce0428416f59c7fc5f310a91779f62f6b1a34d4c">ce04284</a>: fix: skip hiding ScreenHunter7Pro
+- <a href="https://github.com/Jasonnor/automation-scripts-collection/commit/c78df423f6cf50fcb54cadf346c8ab8df6ef4560">c78df42</a>: fix: click on the absolute coordinates to start the game
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
