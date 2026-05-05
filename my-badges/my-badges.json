@@ -52,14 +52,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 386 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 159 times)\n5. function (used 76 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 387 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 160 times)\n5. function (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/ce0428416f59c7fc5f310a91779f62f6b1a34d4c\">ce04284</a>: fix: skip hiding ScreenHunter7Pro\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/c78df423f6cf50fcb54cadf346c8ab8df6ef4560\">c78df42</a>: fix: click on the absolute coordinates to start the game",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/e1555347192fa517c491cd29bdef265b9e81e0e9\">e155534</a>: fix: skip hiding ScreenHunter7Pro\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/256ec7987065b12d1a7a338bc7877eabdb94bef8\">256ec79</a>: fix: click on the absolute coordinates to start the game",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
