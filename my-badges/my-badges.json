@@ -52,14 +52,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 387 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 160 times)\n5. function (used 76 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 388 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 160 times)\n5. function (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/e1555347192fa517c491cd29bdef265b9e81e0e9\">e155534</a>: fix: skip hiding ScreenHunter7Pro\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/256ec7987065b12d1a7a338bc7877eabdb94bef8\">256ec79</a>: fix: click on the absolute coordinates to start the game",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/7d6c49355c001f9799138aa101a8f18d8363c576\">7d6c493</a>: fix: isolate automation task to specific tab to prevent unintended execution\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/ec1140bee97e3fda00aac1323a33feddf40ce17c\">ec1140b</a>: fix: improve Add Source menu selection with retries",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {

@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Jasonnor/automation-scripts-collection/commit/e1555347192fa517c491cd29bdef265b9e81e0e9">e155534</a>: fix: skip hiding ScreenHunter7Pro
-- <a href="https://github.com/Jasonnor/automation-scripts-collection/commit/256ec7987065b12d1a7a338bc7877eabdb94bef8">256ec79</a>: fix: click on the absolute coordinates to start the game
+- <a href="https://github.com/Jasonnor/web-tldr/commit/7d6c49355c001f9799138aa101a8f18d8363c576">7d6c493</a>: fix: isolate automation task to specific tab to prevent unintended execution
+- <a href="https://github.com/Jasonnor/web-tldr/commit/ec1140bee97e3fda00aac1323a33feddf40ce17c">ec1140b</a>: fix: improve Add Source menu selection with retries
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
