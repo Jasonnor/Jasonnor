@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 388 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 161 times)\n5. function (used 76 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 389 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 162 times)\n5. function (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/b2ace0732e5674442fff6f2444ac8fdc8ed3e664\">b2ace07</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/2600acdbb4ff0b19aef451159a8af6baad5728f2\">2600acd</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/a9081ff307bd9d1665c04ab7903519908d13132d\">a9081ff</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/53daca0aee8ca0fcef28c5d5d291dd33f9bada10\">53daca0</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/3483d230d0e933c7c7ea44bed0b7e5d39aea48f7\">3483d23</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/da0722bc31f78c0a377cf0186621b6b4edbd27e1\">da0722b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/4846132362618808b6535d53c57849aa880de716\">4846132</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/b2ace0732e5674442fff6f2444ac8fdc8ed3e664\">b2ace07</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/2600acdbb4ff0b19aef451159a8af6baad5728f2\">2600acd</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/a9081ff307bd9d1665c04ab7903519908d13132d\">a9081ff</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/53daca0aee8ca0fcef28c5d5d291dd33f9bada10\">53daca0</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/3483d230d0e933c7c7ea44bed0b7e5d39aea48f7\">3483d23</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
