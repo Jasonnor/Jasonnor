@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 390 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 165 times)\n5. function (used 76 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 474 times)\n2. update (used 320 times)\n3. fix (used 283 times)\n4. feature: (used 179 times)\n5. function (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/ab54c97aa5f3693808135a09349cfdf1e5a4c30f\">ab54c97</a>: Fix multiplay\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/89fc2b8b09ea01ba2c23920ce3b04225e3e50a06\">89fc2b8</a>: Fix guild battle auto\n- <a href=\"https://github.com/Jasonnor/Last-Auto-Period/commit/2ce108d5787f93eee24fb90b40f713c2799957e2\">2ce108d</a>: Fix delay bug",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/7cdf05ca2945e4d07da7d66551be2cf7d3150aa6\">7cdf05c</a>: Fix Android icon\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/c6a83d44929441d0d785f23ff0ebd398617dd9a4\">c6a83d4</a>: Fix icon url & README\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/592a2db14b103a3e5e29957be9b18f834bc383fa\">592a2db</a>: Fix for SEO",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -101,14 +101,14 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/tf-idf-python/commit/b719e4f70964826b7c5af20bb5c47846dc6c19a6\">b719e4f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/4e4a4df6120d6dd76f1171a095ab78a79e0d2dfe\">4e4a4df</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/tf-idf-python/commit/b719e4f70964826b7c5af20bb5c47846dc6c19a6\">b719e4f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/th-music-video-generator/commit/4e4a4df6120d6dd76f1171a095ab78a79e0d2dfe\">4e4a4df</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
