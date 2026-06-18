@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 390 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 165 times)\n5. function (used 76 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 390 times)\n2. update (used 270 times)\n3. fix (used 240 times)\n4. feature: (used 166 times)\n5. function (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/3f289cbd4c3b56358b268bc8284fadec82d9ffcb\">3f289cb</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/5aaf24a6afaa1b95484642c79d97117e87ca64e3\">5aaf24a</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/21620c0a1de9bf3ac8b24f2e74daea5d23766cdb\">21620c0</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/0b63afe5dfe5e5a512eecd6143ee22e5056fd376\">0b63afe</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/d5a9028dc3a0e9aa942a8a6f799b4126a99ba1fc\">d5a9028</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/f70b416e0dcff0eda6b72785b4675ee8c7b9fb31\">f70b416</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/automation-scripts-collection/commit/d7d5c913c0b7fa57d075f5e84fcb70a6a8deee35\">d7d5c91</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/3f289cbd4c3b56358b268bc8284fadec82d9ffcb\">3f289cb</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/5aaf24a6afaa1b95484642c79d97117e87ca64e3\">5aaf24a</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/21620c0a1de9bf3ac8b24f2e74daea5d23766cdb\">21620c0</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/0b63afe5dfe5e5a512eecd6143ee22e5056fd376\">0b63afe</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/d5a9028dc3a0e9aa942a8a6f799b4126a99ba1fc\">d5a9028</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
