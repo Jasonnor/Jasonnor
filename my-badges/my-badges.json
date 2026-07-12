@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 474 times)\n2. update (used 320 times)\n3. fix (used 283 times)\n4. feature: (used 180 times)\n5. function (used 76 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 478 times)\n2. update (used 320 times)\n3. fix (used 283 times)\n4. feature: (used 180 times)\n5. function (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -229,5 +229,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/62265e6b440530f65e177644f83dbb6e95c6f17e\">62265e6</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/3f289cbd4c3b56358b268bc8284fadec82d9ffcb\">3f289cb</a>\n- <a href=\"https://github.com/Jasonnor/web-tldr/commit/5aaf24a6afaa1b95484642c79d97117e87ca64e3\">5aaf24a</a>\n- <a href=\"https://github.com/Jasonnor/deep_learning_object_detection/commit/bb0a8453aab356ff389354351b8ffea6c2d7fbff\">bb0a845</a>\n- <a href=\"https://github.com/Jasonnor/deep_learning_object_detection/commit/e29cc99c407bd8810addedde8d28bdb4e353d834\">e29cc99</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jasonnor/SillyTavern/commit/7a3869c476db071d3e8226be8187903119dd25a8\">7a3869c</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
