@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Jasonnor/SillyTavern-Magic-Translation/commit/f87747748239992cca66a049d5632a9b92ab671e">f877477</a>
 - <a href="https://github.com/Jasonnor/automation-scripts-collection/commit/1b13b7d863da19378a830eb46857622efcc45ab2">1b13b7d</a>
 - <a href="https://github.com/Jasonnor/web-tldr/commit/b2ace0732e5674442fff6f2444ac8fdc8ed3e664">b2ace07</a>
 - <a href="https://github.com/Jasonnor/web-tldr/commit/2600acdbb4ff0b19aef451159a8af6baad5728f2">2600acd</a>
 - <a href="https://github.com/Jasonnor/web-tldr/commit/a9081ff307bd9d1665c04ab7903519908d13132d">a9081ff</a>
 - <a href="https://github.com/Jasonnor/web-tldr/commit/53daca0aee8ca0fcef28c5d5d291dd33f9bada10">53daca0</a>
-- <a href="https://github.com/Jasonnor/web-tldr/commit/3483d230d0e933c7c7ea44bed0b7e5d39aea48f7">3483d23</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
