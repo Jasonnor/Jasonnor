@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/SigNoz/signoz/issues/6001">17 👍</a>
+* <a href="https://github.com/openai/codex/issues/28055">11 👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
